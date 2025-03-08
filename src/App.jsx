@@ -36,7 +36,7 @@ function App() {
       <div className="flex justify-between mt-14">
         <div className="pl-52">
           <img
-            src={"../src/assets/portfolio.png"}
+            src={"../public/portfolio.png"}
             alt="umang"
             style={{
               backgroundColor: "transparent",
@@ -98,7 +98,7 @@ function App() {
       <div className="flex mt-4  ">
         <div className="">
           <img
-            src="../src/assets/photo1.jpg"
+            src="../public/photo1.jpg"
             alt="Umang"
             className="h-[500px] w-[500px] rounded-full object-cover"
           />
@@ -199,7 +199,7 @@ function App() {
         <div className="flex flex-col  justify-center p-4 border-2 bg-slate-100 rounded-2xl  w-80">
           <img
             className="h-80 border rounded-2xl object-fit"
-            src="../src/assets/DgLocker.jpg"
+            src="../public/DgLocker.jpg"
           ></img>
           <div className="font-bold pt-3 text-3xl text-center mb-5">
             Digi-Locker
@@ -211,7 +211,7 @@ function App() {
         <div className="flex flex-col  justify-center p-4 border-2 bg-slate-100 rounded-2xl  w-80">
           <img
             className="h-80 border rounded-2xl object-fit"
-            src="../src/assets/box_cricket.jpeg"
+            src="../public/box_cricket.jpeg"
           ></img>
           <div className="font-bold pt-3 text-3xl text-center mb-5">
             Box-Cricket
@@ -223,7 +223,7 @@ function App() {
         <div className="flex flex-col bg-slate-100  justify-center p-4 border-2 rounded-2xl  w-80">
           <img
             className="h-80 border rounded-2xl object-fit object-fill"
-            src="../src/assets/diet_ai.jpg"
+            src="../public/diet_ai.jpg"
           ></img>
           <div className="font-bold pt-3 text-3xl text-center mb-5">
             Diet-AI
