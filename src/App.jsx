@@ -81,7 +81,7 @@ function App() {
         <div className="w-full lg:w-1/2 flex justify-center mb-8 lg:mb-0">
           <div className="relative">
             <img
-              src="/public/portfolio.png"
+              src="/portfolio.png"
               alt="Rathod Umang"
               className="w-64 h-64 sm:w-80 sm:h-80 lg:w-96 lg:h-96 rounded-full object-cover shadow-2xl border-4 border-white"
             />
@@ -184,7 +184,7 @@ function App() {
           <div className="flex flex-col lg:flex-row items-center gap-12 lg:gap-16">
             <div className="w-full lg:w-1/3">
               <img
-                src="/public/photo1.jpg"
+                src="/photo1.jpg"
                 alt="Umang"
                 className="w-80 h-80 lg:w-96 lg:h-96 rounded-full object-cover shadow-xl mx-auto"
               />
